@@ -1,0 +1,11 @@
+Ejercicio sobre los hiperenlaces
+
+A continuación mostramos enlaces a los 4 apartados de la Práctica 6:
+Práctica 6 - A
+Práctica 6 - B
+Práctica 6 - C
+Práctica 6 - D
+
+En cambio en este párrafo vamos a dar acceso a la página de la Práctica 5 - A y a la Práctica 5 - B en todos los casos se ha hecho uso de las pistas para dar más información sobre estos enlaces.
+
+

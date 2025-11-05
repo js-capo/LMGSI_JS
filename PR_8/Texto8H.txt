@@ -1,0 +1,42 @@
+	Nombre      Diametro relativo   Período orbital   Número de lunas
+	-----------------------------------------------------------------
+	Mercurio          0,382            0,24 años            0
+	Venus             0,949            0,62 años            0
+	Tierra            1                1    año             1
+	Marte             0,532            1,88 años            2
+	Júpiter          11,209           11,86 años           49
+	Saturno           9,449           29,46 años           52
+	Urano             4,007           84,01 años           27
+	Neptuno           3,883          164,80 años           13
+	
+	
+
+
+
+
+
+
+
+
+
+Comparativa de reproductores MP3
+Tabla comparativa de las características técnicas de los reproductores MP3 	MP3 mini
+
+MP3 pequeño Color negro
+MP3 pequeño Color blanco
+MP3 grande
+MP3 grande Color negro
+MP3 grande Color blanco
+
+Capacidad de almacenamiento 	
+4GB (1.000 canciones) 	8GB (2.000 canciones) 	16GB (4.000 canciones) 	30GB (7.500 canciones) 	80GB (20.000 canciones)
+
+Colores Disponibles 	Blanco 	Blanco / Rosa / Negro 	Negro 	Blanco / Negro
+
+Tamaño de Pantalla 	LCD de 3 cm (diagonal) con retroiluminación 	LCD de 6 cm (diagonal) con retroiluminación
+
+Tiempo de carga 	Unas 3 horas 	Unas 4 horas
+
+Unas 2 horas para alcanzar el 80% de la capacidad
+
+Volver

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es">
+	<head>	
+		<title>Alineación de imágenes</title>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8"  />		
+	</head>
+	
+	<body>
+		<h1>Alineación de imágenes</h1>
+		
+		<p>La etiqueta <code>img</code> también soporta el atributo align, su uso no es recomendado, y se recomienda el uso de la <strong>propiedad <code>float</code> de CSS</strong>. Sin embargo esta propiedad aún no es soportada por todos los navegadores.</p>
+	
+		<p><em>Para mantener un documento acorde al estricto uso de elementos <acronym title="Extensive Hypertext Markup Language">XHTML</acronym> 1.0 utilizaremos esta propiedad <acronym title="Cascading Style Sheets">CSS</acronym> en lugar del atributo <code>align</code></em></p>
+
+		<h2>Propiedad float de CSS</h2>
+
+		<table
+		border="1"
+		width="100%">
+			<tr>
+				<td>
+					<h3>style="float:right"</h3>
+					
+					<p>Probamos a insertar la siguiente etiqueta en la celda de abajo:</p>
+					<p><code>&lt;p&gt;&lt;img src="tux.png" alt="Tux, el pingüino de Linux" height="100" <strong>style="float:right"</strong>/&gt;....&lt;/p&gt;</code></p>
+					
+					<p>En lugar de los puntos suspensivos insertaremos el texto que se ve a continuación:</p>
+					
+					<p>Tux, el pingüino de Linux Tux es el nombre de la mascota oficial del kernel Linux. Tux es un pequeño pingüino de aspecto risueño. La idea de que la mascota de Linux fuera un pingüino provino del mismo Linus Torvalds, creador de Linux. Según se cuenta, cuando era niño le picó un pingüino, y le resultó simpática la idea de asociar un pingüino a su proyecto. Existen dos versiones sobre el origen de su nombre. La primera sugiere que el nombre surge del hecho de que los pingüinos parecen vestir un esmoquín (en inglés tuxedo). La segunda es que las letras que componen Tux provienen de las palabras Torvalds Unix. <img src="Imágenes/tux.png" alt="Tux, el pingüino de Linux" height="100" style="float:right" /></p>
+				</td>
+			</tr>
+			
+			
+			<tr>
+				<td>
+					<h3>style="float:left"</h3>
+					
+					<p>
+						<p>Probamos a insertar la siguiente etiqueta en la celda de abajo:</p>
+						<p><code>&lt;p&gt;&lt;img src="tux.png" alt="Tux, el pingüino de Linux" height="100" <strong>style="float:left"</strong>/&gt;....&lt;/p&gt;</code></p>
+						
+						<p>En lugar de los puntos suspensivos insertaremos el texto que se ve a continuación:</p>
+						
+						<p>Tux, el pingüino de Linux Tux es el nombre de la mascota oficial del kernel Linux. Tux es un pequeño pingüino de aspecto risueño. La idea de que la mascota de Linux fuera un pingüino provino del mismo Linus Torvalds, creador de Linux. Según se cuenta, cuando era niño le picó un pingüino, y le resultó simpática la idea de asociar un pingüino a su proyecto. Existen dos versiones sobre el origen de su nombre. La primera sugiere que el nombre surge del hecho de que los pingüinos parecen vestir un esmoquín (en inglés tuxedo). La segunda es que las letras que componen Tux provienen de las palabras Torvalds Unix. <img src="Imágenes/tux.png" alt="Tux, el pingüino de Linux" height="100" style="float:left" /></p>
+					</p>
+				</td>
+			</tr>
+		</table>
+	</body>	
+</html>
+
+

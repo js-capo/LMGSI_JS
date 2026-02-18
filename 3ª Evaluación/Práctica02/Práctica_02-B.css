@@ -1,0 +1,159 @@
+* {
+	font-family:arial;
+}
+
+h1, h3 {
+	color:blue;
+}
+
+/* Apartados Ejercicio */
+
+/* AP1 */
+
+#ap1-1 {
+	font-size:xx-small; /* No lo visualiza el navegador. */
+}
+
+#ap1-2 {
+	font-size:x-small;
+}
+
+#ap1-3 {
+	font-size:small;
+}
+
+#ap1-4 {
+	font-size:medium;
+}
+
+#ap1-5 {
+	font-size:large;
+}
+
+#ap1-6 {
+	font-size:x-large;
+}
+
+#ap1-7 {
+	font-size:xx-large;
+}
+
+/* AP2 */
+
+#ap2-1 {
+	font-size:.5em;
+}
+
+#ap2-2 {
+	font-size:.7em;
+}
+
+#ap2-3 {
+	font-size:.9em;
+}
+
+#ap2-4 {
+	font-size:1em;
+}
+
+#ap2-5 {
+	font-size:1.5em;
+}
+
+#ap2-6 {
+	font-size:2em;
+}
+
+#ap2-7 {
+	font-size:3em;
+}
+
+/* AP3 */
+
+#ap3-1 {
+	font-size:50%;
+}
+
+#ap3-2 {
+	font-size:70%;
+}
+
+#ap3-3 {
+	font-size:90%;
+}
+
+#ap3-4 {
+	font-size:100%;
+}
+
+#ap3-5 {
+	font-size:150%;
+}
+
+#ap3-6 {
+	font-size:200%;
+}
+
+#ap3-7 {
+	font-size:300%;
+}
+
+/* AP4 */
+
+#ap4-1 {
+	font-size:9px;
+}
+
+#ap4-2 {
+	font-size:12px;
+}
+
+#ap4-3 {
+	font-size:14px;
+}
+
+#ap4-4 {
+	font-size:18px;
+}
+
+#ap4-5 {
+	font-size:24px;
+}
+
+#ap4-6 {
+	font-size:36px;
+}
+
+#ap4-7 {
+	font-size:48px;
+}
+
+/* AP5 */
+
+#ap5-1 {
+	font-size:9pt;
+}
+
+#ap5-2 {
+	font-size:12pt;
+}
+
+#ap5-3 {
+	font-size:14pt;
+}
+
+#ap5-4 {
+	font-size:18pt;
+}
+
+#ap5-5 {
+	font-size:24pt;
+}
+
+#ap5-6 {
+	font-size:36pt;
+}
+
+#ap5-7 {
+	font-size:48pt;
+}

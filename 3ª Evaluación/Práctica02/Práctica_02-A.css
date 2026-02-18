@@ -1,0 +1,45 @@
+#ap1 {
+	font-style:italic;
+}
+#ap2 {
+	font-style:oblique;
+}
+#ap3 {
+	font-family:serif;
+}
+#ap4 {
+	font-family:sans-serif;
+}
+#ap5 {
+	font-family:cursive;
+}
+#ap6 {
+font-family: fantasy, verdana, helvetica, arial, "Times New Roman";
+}
+
+#ap7 {
+font-family: fantasy, "Times New Roman", verdana, helvetica, arial;
+}
+#ap8 {
+	font-family:monospace;
+}
+#ap9 {
+	font-variant:small-caps; /* Para poder visualizarlo */
+	/* La forma correcta sería: font-family:Versales; */
+}
+#ap10 {
+	font-weight:bold;
+}
+#ap11 {
+	font-weight:900;
+}
+#ap12 {
+	font-size:56px;
+}
+#ap13 {
+	font-family:Arial,Helvetica,"sans-serif";
+	font-style:italic;
+	font-weight:bold;
+	font-size:24px/1px;
+	font-variant:small-caps;
+}

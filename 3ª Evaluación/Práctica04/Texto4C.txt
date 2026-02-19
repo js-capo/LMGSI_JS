@@ -1,0 +1,11 @@
+Ejemplo:Alineación Baseline (por defecto)
+Ejemplo:Alineación Sub
+Ejemplo:Alineación Super
+Ejemplo:Alineación Top
+Ejemplo:Alineación Text-Top
+Ejemplo:Alineación Middle
+Ejemplo:Alineación Bottom
+Ejemplo:Alineación Text-Bottom
+Ejemplo:Alineación 1em
+Ejemplo:Alineación -1em
+Ejemplo:Alineación 90%

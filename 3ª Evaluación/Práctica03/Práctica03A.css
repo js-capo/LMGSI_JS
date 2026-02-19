@@ -1,0 +1,86 @@
+* {
+	font-weight:bold;
+	font-family:arial;
+	font-size:24px;
+	font-variant:small-caps;
+}
+
+.aqua {
+	color:aqua;
+}
+
+.black {
+	color:black;
+}
+
+.blue {
+	color:blue;
+}
+
+.fuchsia {
+	color:fuchsia;
+}
+
+.gray {
+	color:gray;
+}
+
+.green {
+	color:green;
+}
+
+.lime {
+	color:lime;
+}
+
+.maroon {
+	color:maroon;
+}
+
+.navy {
+	color:navy;
+}
+
+.olive {
+	color:olive;
+}
+
+.orange {
+	color:orange;
+}
+
+.purple {
+	color:purple;
+}
+
+.red {
+	color:red;
+}
+
+.silver {
+	color:silver;
+}
+
+.teal {
+	color:teal;
+}
+
+.white {
+	color:black; /* Pq si no no se verá! Aquí tendría que poner color:white; */
+}
+
+.yellow {
+	color:yellow;
+}
+
+.* {
+	width:20%;
+}
+
+.red, .silver, .teal {
+	width:33%;
+}
+
+.white, .yellow {
+	width:50%;
+}

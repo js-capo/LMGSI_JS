@@ -1,0 +1,93 @@
+* {
+	font-weight:bold;
+	font-family:arial;
+	font-size:24px;
+	font-variant:small-caps;
+}
+
+.aqua {
+	background-color:aqua;
+}
+
+.black {
+	background-color:black;
+	color:white;
+}
+
+.blue {
+	background-color:blue;
+	color:white;
+}
+
+.fuchsia {
+	background-color:fuchsia;
+}
+
+.gray {
+	background-color:gray;
+}
+
+.green {
+	background-color:green;
+	color:white;
+}
+
+.lime {
+	background-color:lime;
+}
+
+.maroon {
+	background-color:maroon;
+	color:white;
+}
+
+.navy {
+	background-color:navy;
+	color:white;
+}
+
+.olive {
+	background-color:olive;
+}
+
+.orange {
+	background-color:orange;
+}
+
+.purple {
+	background-color:purple;
+	color:white;
+}
+
+.red {
+	background-color:red;
+}
+
+.silver {
+	background-color:silver;
+}
+
+.teal {
+	background-color:teal;
+	color:white;
+}
+
+.white {
+	background-color:white;
+}
+
+.yellow {
+	background-color:yellow;
+}
+
+.* {
+	width:20%;
+}
+
+.red, .silver, .teal {
+	width:33%;
+}
+
+.white, .yellow {
+	width:50%;
+}
